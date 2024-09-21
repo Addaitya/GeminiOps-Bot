@@ -43,3 +43,6 @@ The project is designed to provide a hands-on understanding of function calling 
 - **lib/actions.py:** This file contains all api fucntions.
 - **lib/fun_declare.py:** Here function description is provided that is used by LLM(gemini in our case), know what api call are avaiable to it.
 - **lib/chat_bot.py:** This file contains the `Chat_bot` class provide an abstraction to interct with LLM.
+
+### Purpose
+The purpose of this project is to understand how AI agents use function calling to handle multiple tasks. Each function callable by the AI agent depending on the task at hand.
