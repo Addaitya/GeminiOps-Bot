@@ -14,6 +14,8 @@ The project is designed to provide a hands-on understanding of function calling 
 - Perform basic math operations via API calls.
 - Real-time currency exchange rates fetching.
 
+![plot](project_img/view1.png)
+
 ## Prerequisites
 
 - Python 3.10+
